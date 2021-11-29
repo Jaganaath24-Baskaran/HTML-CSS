@@ -1,0 +1,250 @@
+#first{
+    position: fixed;
+    padding-left: 33px;
+    padding-bottom: 50px;
+}
+#division{
+    background-image: url("../images/Vector-1.png");
+}
+#div1{
+    background-image: url("../images/Vector-1.png");
+    position: absolute;
+    left: 11rem;
+    margin-top: 19rem;
+}
+#div2{
+    position:absolute;
+    margin-top: 3rem;
+    left: 11rem;
+}
+.div3{
+    position: absolute;
+    left: 11rem;
+    margin-top: 31rem;
+}
+.formblock{
+    position: absolute;
+    left: 48rem;
+}
+.div4{
+    color: #334c7e;
+    font-size: 25px;
+    line-height: 30px;
+    font-family: CarosBold, sans-serif;
+    text-align: center;
+}
+.div5{
+    color: #40537a;
+    font-family: "Caros", Caros;
+    font-size: 17px;
+    line-height: 25px;
+    text-align: center;
+}
+#div6{
+    position:fixed;
+    margin-top: 34rem;
+    left: 90rem;
+}
+#div7{
+    position: fixed;
+    margin-top: 26rem;
+    left: 80rem;
+}
+.secondpart{
+    position: absolute;
+    margin-top: 48rem;
+    left: 41rem;
+}
+.heading{
+    color: #162a52;
+    font-size: 25px;
+    line-height: 30px;
+    font-family: CarosBold, sans-serif;
+}
+.table1{
+    position: absolute;
+    margin-top: 55rem;
+    left: 10rem;
+}
+.table2{
+    position: absolute;
+    margin-top: 55rem;
+    left: 35rem;
+}
+.table3{
+    position: absolute;
+    margin-top: 55rem;
+    left: 60rem;
+}
+.table4{
+    position: absolute;
+    margin-top: 80rem;
+    left: 10rem;
+}
+.table5{
+    position: absolute;
+    margin-top: 80rem;
+    left: 35rem;
+}
+.div8{
+    position:absolute;
+    margin-top: 105rem;
+    left: 35rem;
+}
+.div9{
+    color: gray;
+    position: absolute;
+    margin-top: 105rem;
+    left: 43rem;
+}
+.div10{
+    position: absolute;
+    margin-top: 120rem;
+    left: 10rem;
+}
+.footHead{
+    font-weight: bolder;
+}
+.foot1{
+    position: absolute;
+    margin-top: 118rem;
+    left: 40rem;
+}
+.foot2{
+    position: absolute;
+    margin-top: 118rem;
+    left: 55rem;
+}
+.foot3{
+    position: absolute;
+    margin-top: 118rem;
+    left: 70rem;
+}
+.foot4{
+    position: absolute;
+    margin-top: 125rem;
+    left: 40rem;
+}
+.foot5{
+    position: absolute;
+    margin-top: 129rem;
+    left: 55rem;
+}
+.foot6{
+    position: absolute;
+    margin-top: 127rem;
+    left: 70rem;
+}
+.foot7{
+    position: absolute;
+    margin-top: 132rem;
+    left: 70rem;
+}
+.footfollowimages{
+    height: auto;
+    width: 1.5rem;
+}
+.copyright{
+    position: absolute;
+    margin-top: 145rem;
+    left: 25rem;
+}
+.getsupport{
+    font-family: Caros;
+    font-size: 16px;
+    color: #f58e65;
+    letter-spacing: 0;
+    line-height: 30px;
+    padding-top: 15px;
+    text-decoration: none;
+    padding-top: 15px;
+}
+.detail:hover{
+    border-color: #e26230;
+}
+.detail:active{
+    border-color: #df4d14;
+}
+.image{
+    width: 60px;
+    height: 55.1px;
+}
+.text{
+    color: #1d4699;
+    font-family: "Caros", Caros;
+    font-size: 16px;
+    line-height: 24px;
+}
+.ph_number{
+    font-weight: 700;
+}
+#supporticon{
+    left: 8px;
+    width: 16px;
+    padding-bottom: 2px;
+}
+ul li{
+    display: inline-block;
+    padding-right: 80px;
+}
+ul li:hover{
+    color: #be7558;
+}
+ul{
+    float: right;
+}
+.form{
+    text-align: center;
+}
+.details{
+    height: 50px;
+    width: 450px;
+    bottom: 15px;
+    border-color: lightgray;
+}
+input[type=submit] {
+    width: 400px;
+    height: 55px;
+    line-height: 55px;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 15px 0;
+    padding: 0 30px;
+    background-color: #ff6d34;
+    color: #fff;
+    border: 0;
+    box-shadow: 0 5px 15px 0 rgb(0 0 0 / 5%);
+    transition: all .3s;
+    outline: none;
+}
+input[type=submit]:hover{
+    background-color: #fff0ea;
+    color: #ff6d34;
+}
+.messagearea{
+    height: 125px;
+    width: 450px;
+    margin-bottom: 15px;
+    border-color: lightgray;
+}
+.messagearea:hover{
+    border-color: #FF4800;
+}
+.messagearea:active{
+    border-color: #FF4800;
+}
+.colorRed{
+    color:#FF4800;
+}
+.colorred:hover{
+    color:brown;
+}
+.tableheader{
+    color: #283a5e;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: CarosBold, sans-serif;
+}
+.hoverred:hover{
+    color:#d36a41;
+}
